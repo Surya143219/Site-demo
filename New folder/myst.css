@@ -1,0 +1,145 @@
+body{
+	color: #40514E;
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather',serif;
+}
+
+h1{
+	line-height: 2;
+	color: skyblue;
+	margin-top: 50px auto 0 auto;
+	font-size: 5.625rem;
+	font-family: 'Sacramento',cursive;
+}
+
+h2{
+	color: skyblue;
+	font-family: 'Montserrat',sans-serif;
+	font-size: 2.5rem;
+	padding-bottom: 10px;
+
+}
+h3{
+	color: gray;
+	font-family: 'Montserrat',sans-serif;
+}
+p{
+	line-height: 2;
+}
+#id123{
+	border-radius: ;
+	width: 100px;
+	height: 100px;
+}
+#id112{
+
+	        background-color: yellow;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+#id1121{
+
+	        background-color: darkorange;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+#id1122{
+
+	        background-color:green;
+			border-style: none;
+			height: 5px;
+			width: 100px;
+}
+
+.top-container{
+	background-color:lightcyan;
+	position: relative;
+	padding-top: 100px;
+	
+}
+#id1{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.ip12{
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin-right: 30px;
+}
+.giphy-embed{
+	width: 150px;
+	height:150px;
+	border-radius: 50%;
+	float: right;
+	margin-left: 30px;
+}
+
+.middle-container{
+	margin: 100px 0;
+}
+.bottom-container{
+	background-color: skyblue;
+	padding: 50px 0 20px;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+.footer-link{
+	color:gray;
+	font-family:'Montserrat' ;
+	margin: 10px;
+	list-style-type: none;
+	text-decoration: none;
+	color: blue;
+}
+.footer-link:hover{
+	color: red;
+}
+.btn{
+	list-style-type: none;
+	text-decoration: none;
+	background-color: skyblue;
+	border-radius: 20px;
+	border: 2px solid black;
+	padding-top: 5px;
+	margin: 10px auto;
+	display: block;
+	width: 150px;
+	font-family:'Montserrat' ;
+
+}
+.btn:hover{
+	background-color: yellow;
+	color: red;
+	font-family:'Montserrat' ;
+}
+
+.pro{
+	margin: auto;
+	text-decoration: underline;
+	color: orange;
+	font-weight: bold;
+}
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+	width: 100px;
+	
+}
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 150px;
+	width: 100px;
+	
+}
